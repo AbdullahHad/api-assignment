@@ -1,0 +1,41 @@
+# Visual Studio / .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+out/
+publish/
+
+# Rider & IDEs
+.idea/
+.vscode/
+
+# NuGet
+*.nupkg
+packages/
+
+# Test results
+TestResults/
+
+# Logs
+*.log
+
+# ASP.NET Core secrets & local config
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Misc
+*.db
+*.sqlite
+*.bak
